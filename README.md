@@ -1,4 +1,4 @@
-# Risk Management Analytics - Credit Risk Scoring
+# Kenya Airways & Industry Airline Customer Reviews Analysis
 
 Welcome to the Kenya Airways & Industry Airline Customer Reviews Analysis notebook! Kenya Airways, a prominent player in the aviation industry, receives a plethora of airline reviews from travelers worldwide. In a bid to enhance their customer service and gain a competitive edge, the airline seeks to delve into their customer feedback, as well as conduct a comprehensive analysis of their competitors' performance.
 
